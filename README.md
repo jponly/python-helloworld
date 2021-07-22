@@ -1,2 +1,5 @@
 # python-helloworld
-CI/CD exercise
+
+This is a basic Python Flask application
+
+
